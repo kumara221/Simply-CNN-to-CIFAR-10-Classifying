@@ -18,6 +18,8 @@ Horse
 Ship
 Truck
 
+but in this case, I limited the dataset used to only 10.000 to save time on the training process.
+
 ## Data Augmentation
 To improve the model's performance, the following data augmentation techniques are applied:
 
